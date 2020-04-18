@@ -1,0 +1,29 @@
+,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed,Hotel Name
+0,Ribeira Grande,75,PT,1587234294,88,38.52,-28.7,64.4,9.17,Quinta Das Buganvílias
+1,Lüderitz,11,,1587234488,87,-26.65,15.16,60.8,6.93,Kairos Cottage
+2,Bāgeshwar,40,IN,1587234492,36,29.85,79.77,62.91,5.32,OYO 46808 Tamanna Hotel
+3,Port Lincoln,51,AU,1587234494,74,-34.73,135.87,58.5,5.14,Port Lincoln Hotel
+4,Naples,40,IT,1587234243,72,40.83,14.25,64.4,3.36,Royal Continental Hotel
+5,Muros,64,ES,1587234495,76,42.78,-9.06,64.0,11.99,Hotel La Muradana
+7,Byron Bay,75,AU,1587234481,93,-28.65,153.62,63.0,6.93,Bayhaven Lodge
+8,Ahipara,65,NZ,1587234498,84,-35.17,173.17,63.79,10.96,Ahipara Bay Motel
+9,Ancud,75,CL,1587234458,82,-41.87,-73.82,60.8,14.99,Panamericana Hotel Ancud
+10,Soe,21,ID,1587234505,77,-9.86,124.28,64.4,2.46,Dena Hotel
+11,Ashington,40,GB,1587234507,71,50.93,-0.39,59.0,6.93,The White Horse Hotel
+12,Ponta Delgada,40,PT,1587234465,82,37.73,-25.67,62.6,11.41,Hotel Talisman
+13,Northam,46,GB,1587234516,86,51.03,-4.22,55.99,5.01,Instow Barton
+14,Vila Franca do Campo,40,PT,1587234472,82,37.72,-25.43,62.6,11.41,A Villa by the Sea
+16,Vila,75,PT,1587234523,87,42.03,-8.16,57.2,5.82,Hotel Castrum Villae
+17,Jianhu,20,CN,1587234524,63,29.98,120.57,62.01,3.27,Holiday Inn Shaoxing
+19,Laas,40,IT,1587234451,51,46.62,10.7,59.0,2.24,Untertelshof
+20,Rabo de Peixe,40,PT,1587234527,82,37.8,-25.58,62.6,11.41,Santa Barbara Eco-Beach Resort
+21,Bloemfontein,16,ZA,1587234420,82,-29.12,26.21,62.6,4.7,City Living Boutique Hotel
+22,Luancheng,20,CN,1587234530,58,37.88,114.65,57.2,4.47,Shell Hebei Shijiazhuang Luancheng Xinyuan Road Hotel
+23,Serenje,22,ZM,1587234531,63,-13.23,30.24,62.53,7.83,Villa Mbanandi Lodge
+24,Sobreira,45,PT,1587234531,71,41.52,-7.8,63.0,5.64,Pena Park Hotel
+25,Cuenca,75,EC,1587234393,100,-2.88,-78.98,57.2,5.82,Mansión Alcázar
+26,Mahon,75,ES,1587234543,88,39.89,4.27,64.4,10.29,Hotel Catalonia Mirador des Port
+27,Ngunguru,62,NZ,1587234544,98,-35.62,174.5,59.0,11.79,Quality Hotel Oceans Tutukaka
+28,Barcelos,20,PT,1587234427,82,41.54,-8.62,63.0,9.17,Hotel Bagoeira
+29,Areosa,20,PT,1587234550,82,41.72,-8.86,60.8,9.17,Pousada Viana do Castelo
+30,Burnie,31,AU,1587234552,91,-41.07,145.92,55.99,3.0,Ikon Hotel
